@@ -2,7 +2,7 @@
  * State method for each board state
  * @author Shuqing Zhang
  * @date April/10/2016
- * @lastUpdate
+ * @lastUpdate April/11/2016
  */
 
 import java.util.Arrays;
